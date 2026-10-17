@@ -5226,7 +5226,7 @@
       "evidence": [
         "Genera una tabla de valores (x, y) para una ecuación lineal y ubica los puntos con exactitud",
         "Reordena una ecuación como 2x + 3y = 12 a la forma y = mx + c",
-        "Calcula la pendiente entre dos puntos usando el cociente entre la subida y el avance"
+        "Calcula la pendiente entre dos puntos como el cambio vertical dividido entre el cambio horizontal"
       ]
     },
     {
@@ -5234,8 +5234,8 @@
       "name": "Fórmulas sencillas",
       "description": "Comprender y usar fórmulas matemáticas usuales; reordenar fórmulas para despejar otra variable, con operaciones inversas, hasta dejar sola esa variable",
       "evidence": [
-        "Identifica el sujeto de una fórmula dada",
-        "Usa operaciones inversas para reordenar una fórmula de modo que otra variable sea el sujeto",
+        "Identifica qué variable está despejada en una fórmula dada",
+        "Usa operaciones inversas para reordenar una fórmula de modo que quede despejada otra variable",
         "Reordena fórmulas de varios pasos, incluidas las que tienen fracciones y potencias"
       ]
     },
@@ -5551,9 +5551,9 @@
     {
       "id": "mt_IHipFGTFEY",
       "name": "Comprensión de fracciones",
-      "description": "Hacer un diagrama de puntos para mostrar un conjunto de medidas en fracciones de una unidad (1/2, 1/4, 1/8); usar operaciones con fracciones para resolver problemas con los datos de esos diagramas (por ejemplo, repartir el total en partes iguales)",
+      "description": "Hacer un diagrama de puntos sobre una recta numérica para mostrar un conjunto de medidas en fracciones de una unidad (1/2, 1/4, 1/8); usar operaciones con fracciones para resolver problemas con los datos de esos diagramas (por ejemplo, repartir el total en partes iguales)",
       "evidence": [
-        "Crea un diagrama de puntos con longitudes medidas a la 1/8 de pulgada más cercana",
+        "Crea un diagrama de puntos sobre una recta numérica con longitudes medidas a la 1/8 de pulgada más cercana",
         "Usa el diagrama de puntos para hallar el total de todas las medidas sumando fracciones",
         "Resuelve: «Si el líquido total se repartiera en partes iguales entre todos los vasos, ¿cuánto le tocaría a cada uno?»"
       ]
@@ -9222,9 +9222,9 @@
     {
       "id": "mt_xSgAgg9Ej_",
       "name": "Resultados igualmente probables",
-      "description": "Comprender que «igualmente probables» significa que cada resultado tiene exactamente la misma posibilidad de ocurrir; identificar si una situación tiene resultados igualmente probables (una moneda justa, un dado justo, una ruleta con secciones iguales) o no igualmente probables (una bolsa con más de un color que de otro, una ruleta con secciones desiguales)",
+      "description": "Comprender que «igualmente probables» significa que cada resultado tiene exactamente la misma posibilidad de ocurrir; identificar si una situación tiene resultados igualmente probables (una moneda equilibrada, un dado equilibrado, una ruleta con secciones iguales) o no igualmente probables (una bolsa con más de un color que de otro, una ruleta con secciones desiguales)",
       "evidence": [
-        "Explica que una moneda justa tiene resultados igualmente probables porque cara y cruz tienen la misma posibilidad",
+        "Explica que una moneda equilibrada tiene resultados igualmente probables porque cara y cruz tienen la misma posibilidad",
         "Identifica si una ruleta de secciones desiguales tiene resultados igualmente probables o no, y explica por qué",
         "Da un ejemplo de una situación con resultados igualmente probables y otro sin ellos, y explica la diferencia"
       ]
@@ -9252,9 +9252,9 @@
     {
       "id": "mt_-c4Ca_nBzX",
       "name": "La probabilidad como fracción",
-      "description": "Describir la probabilidad de resultados sencillos e igualmente probables con fracciones unitarias: la probabilidad de sacar un 6 con un dado justo es 1/6, la de que salga cara es 1/2 y la de elegir un color concreto entre tres colores que aparecen por igual es 1/3; ubicar estas probabilidades en una escala de probabilidad de 0 a 1",
+      "description": "Describir la probabilidad de resultados sencillos e igualmente probables con fracciones unitarias: la probabilidad de sacar un 6 con un dado equilibrado es 1/6, la de que salga cara es 1/2 y la de elegir un color concreto entre tres colores que aparecen por igual es 1/3; ubicar estas probabilidades en una escala de probabilidad de 0 a 1",
       "evidence": [
-        "Indica que la probabilidad de sacar un 6 con un dado justo es 1/6 y explica por qué",
+        "Indica que la probabilidad de sacar un 6 con un dado equilibrado es 1/6 y explica por qué",
         "Expresa la probabilidad de sacar una carta roja de una baraja estándar como 26/52 o 1/2",
         "Escribe la probabilidad de un suceso sencillo como una fracción: los resultados favorables entre el total de resultados"
       ]
@@ -9335,8 +9335,8 @@
       "description": "Comprender la probabilidad como una medida en una escala de 0 (imposible) a 1 (seguro); usar el lenguaje de la probabilidad, con palabras como probable, poco probable, seguro e imposible",
       "evidence": [
         "Ubica sucesos de la vida diaria en una escala de probabilidad de 0 a 1 y justifica su lugar",
-        "Explica por qué, en un dado justo de seis caras, cada número tiene probabilidad 1/6",
-        "Distingue los resultados igualmente probables (moneda justa) de los que no lo son (ruleta sesgada)"
+        "Explica por qué, en un dado equilibrado de seis caras, cada número tiene probabilidad 1/6",
+        "Distingue los resultados igualmente probables (moneda equilibrada) de los que no lo son (ruleta sesgada)"
       ]
     },
     {
