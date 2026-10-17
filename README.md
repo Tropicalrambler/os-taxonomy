@@ -44,6 +44,31 @@ All data lives in [`data/`](data/) as UTF-8 JSON. See [`schema/`](schema/) for J
 | [`data/curriculum-standards.json`](data/curriculum-standards.json) | The source curriculum standards, grouped by curriculum. |
 | [`data/clusters.json`](data/clusters.json) | Parent-friendly domain summaries. |
 | [`data/manifest.json`](data/manifest.json) | Counts, per-subject breakdown, per-file checksums. |
+| [`data/i18n/es-419/`](data/i18n/es-419/) | Latin American Spanish (`es-419`) translations, joined by the same ids. |
+
+## Español (Latinoamérica)
+
+This fork adds a complete **Latin American Spanish** translation (`es-419`), written for families and teachers in Guatemala and across Latin America. The English files in `data/` are unchanged. Translations live beside them and join back on the same identifiers.
+
+| File | What is translated | How it joins |
+|---|---|---|
+| [`topics.json`](data/i18n/es-419/topics.json) | `name`, `description`, and every `evidence` item | topic `id` |
+| [`clusters.json`](data/i18n/es-419/clusters.json) | `summary` | `subject` + `domain` + `ageRangeStart` (those three stay in English) |
+| [`dependencies.json`](data/i18n/es-419/dependencies.json) | `reason` | `topicId` + `prerequisiteId` |
+| [`labels.json`](data/i18n/es-419/labels.json) | Display names for subjects, domains, and topic types | the English key |
+
+`curriculum-standards.json` is **not** translated. Those strings belong to third parties (see [PROVENANCE.md](PROVENANCE.md)). Assessment prompts stay in English in this release. Standard codes such as NGSS and Common Core are kept as codes.
+
+The Spanish overview is [README.es.md](README.es.md). `node scripts/validate.mjs` checks that every id is translated, that nothing extra appears, and that no translated string is empty.
+
+### Attribution
+
+The translation is a **derivative** of the Marble Skill Taxonomy. It does not replace Marble's copyright or licenses.
+
+> Marble Skill Taxonomy (v1) · © Generative Spark, Inc. (Marble) · https://withmarble.com · licensed under ODbL 1.0 (database) and CC BY-SA 4.0 (content).
+> Latin American Spanish (es-419) translation · derivative work published in the [Tropicalrambler](https://github.com/Tropicalrambler/os-taxonomy) fork · distributed under the **same licenses** (ODbL 1.0 for the translated dataset, CC BY-SA 4.0 for the translated text).
+
+Address is **ustedes** (not *vosotros*). Vocabulary avoids Spain-only words (*ordenador*, *coger*, *zumo*, *patata*). Science and mathematics terms follow primary-school usage.
 
 ### A topic
 

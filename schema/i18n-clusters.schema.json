@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://withmarble.com/taxonomy/schema/i18n-clusters.schema.json",
+  "title": "Marble Skill Taxonomy — cluster translations",
+  "type": "object",
+  "required": ["locale", "version", "source", "attribution", "clusterCount", "clusters"],
+  "properties": {
+    "locale": { "type": "string", "const": "es-419" },
+    "version": { "type": "string" },
+    "source": { "type": "string", "const": "clusters.json" },
+    "attribution": { "type": "string", "minLength": 1 },
+    "clusterCount": { "type": "integer", "minimum": 0 },
+    "clusters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["subject", "domain", "ageRangeStart", "summary"],
+        "properties": {
+          "subject": { "type": "string", "minLength": 1 },
+          "domain": { "type": "string", "minLength": 1 },
+          "ageRangeStart": { "type": "integer" },
+          "summary": { "type": "string", "minLength": 1 }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
