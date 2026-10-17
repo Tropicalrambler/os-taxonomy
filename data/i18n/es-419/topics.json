@@ -10545,7 +10545,7 @@
     {
       "id": "mt_5S4byWDX6n",
       "name": "Especies en peligro y extintas",
-      "description": "Comprender por qué algunas especies de animales quedan en peligro de extinción o se extinguen —destrucción del hábitat, caza y caza furtiva, contaminación, cambio climático y especies invasoras— y conocer ejemplos como el panda gigante, el gorila de montaña, el leopardo del Amur y el dodo y el tilacino, ya extintos, usando la Lista Roja de la UICN como el sistema con el que los científicos dan seguimiento a las especies amenazadas",
+      "description": "Comprender por qué algunas especies de animales quedan en peligro de extinción o se extinguen —destrucción del hábitat, caza y caza furtiva, contaminación, cambio climático y especies invasoras— y conocer ejemplos como el panda gigante, el gorila de montaña, el leopardo del Amur y el dodo y el tilacino (tigre de Tasmania), ya extintos, usando la Lista Roja de la UICN como el sistema con el que los científicos dan seguimiento a las especies amenazadas",
       "evidence": [
         "Define en peligro de extinción como una especie en riesgo de extinguirse",
         "Nombra al menos 3 causas de que una especie quede en peligro de extinción",
@@ -10605,7 +10605,7 @@
     {
       "id": "mt_ot9rcUwBtK",
       "name": "Supervivencia en el mar profundo",
-      "description": "Explicar cómo los animales del mar profundo soportan la presión aplastante (sin espacios llenos de gas, con proteínas flexibles y enzimas adaptadas a la presión); describir extremos de la termorregulación —glicoproteínas anticongelantes en los peces de la Antártida, sobrenfriamiento en las ranas de la madera—; presentar los tardígrados y la criptobiosis (sobrevivir a la desecación, a temperaturas extremas, a la radiación y al vacío); repasar otros extremófilos (termófilos en las fuentes hidrotermales, halófilos en los salares); considerar qué nos dicen estos organismos sobre los límites de la vida",
+      "description": "Explicar cómo los animales del mar profundo soportan la presión aplastante (sin espacios llenos de gas, con proteínas flexibles y enzimas adaptadas a la presión); describir extremos de la termorregulación —glicoproteínas anticongelantes en los peces de la Antártida, sobrenfriamiento en las ranas de la madera—; presentar los tardígrados (osos de agua) y la criptobiosis (sobrevivir a la desecación, a temperaturas extremas, a la radiación y al vacío); repasar otros extremófilos (termófilos en las fuentes hidrotermales, halófilos en los salares); considerar qué nos dicen estos organismos sobre los límites de la vida",
       "evidence": []
     },
     {
@@ -12230,7 +12230,7 @@
     {
       "id": "mt_5_Zr9xXDNH",
       "name": "Los animales más exitosos de la Tierra",
-      "description": "Los animales más exitosos de la Tierra: hay alrededor de un millón de especies de insectos descritas, y los científicos estiman que pueden existir 5–10 millones. Hay más especies de insectos que de todos los demás grupos de animales juntos. ¿Por qué tantos? El cuerpo pequeño significa que necesitan menos alimento, se reproducen rápido y tienen muchas crías, el vuelo les permite llegar a hábitats nuevos y el exoesqueleto es increíblemente versátil.",
+      "description": "Los animales más exitosos de la Tierra: hay alrededor de un millón de especies de insectos descritas, y los científicos estiman que pueden existir 5–10 millones. Hay más especies de insectos que de todos los demás grupos de animales juntos. ¿Por qué tantas? El cuerpo pequeño significa que necesitan menos alimento, se reproducen rápido y tienen muchas crías, el vuelo les permite llegar a hábitats nuevos y el exoesqueleto es increíblemente versátil.",
       "evidence": [
         "Indica que los insectos son el grupo de animales con más especies, con alrededor de un millón de especies conocidas",
         "Da al menos dos razones por las que los insectos tienen tanto éxito, como el tamaño pequeño, la reproducción rápida o el vuelo",
@@ -14366,7 +14366,7 @@
       "description": "Observar y describir cómo cambia la forma de la Luna durante alrededor de un mes, reconociendo que pasa por un ciclo de fases que se repite, desde la luna nueva (invisible) hasta la luna llena (círculo completo) y de regreso otra vez",
       "evidence": [
         "Describe que la Luna parece cambiar de forma durante alrededor de un mes",
-        "Nombra o dibuja al menos tres fases: luna nueva (oscura), media luna y luna llena",
+        "Nombra o dibuja al menos tres fases: luna nueva (oscura), cuarto de luna y luna llena",
         "Indica que el patrón se repite: la Luna pasa por las mismas formas una y otra vez"
       ]
     },
@@ -14383,9 +14383,9 @@
     {
       "id": "mt_BVpB5wyijZ",
       "name": "Reconocer constelaciones",
-      "description": "Reconocer algunos patrones de estrellas (constelaciones) en el cielo de noche, empezando por el Carro (el Arado), y comprender que la Estrella Polar (Polaris) se puede encontrar con el Carro",
+      "description": "Reconocer algunos patrones de estrellas (constelaciones) en el cielo de noche, empezando por el Carro, y comprender que la Estrella Polar (Polaris) se puede encontrar con el Carro",
       "evidence": [
-        "Identifica o dibuja el Carro (el Arado) como un patrón de siete estrellas",
+        "Identifica o dibuja el Carro como un patrón de siete estrellas",
         "Explica que las dos estrellas del extremo de la caja del Carro apuntan hacia la Estrella Polar",
         "Indica que las constelaciones son patrones de estrellas a los que las personas les han puesto nombre"
       ]
@@ -14535,7 +14535,7 @@
       "name": "Constelaciones según la estación",
       "description": "Reconocer constelaciones con nombre que se ven en distintas estaciones y comprender por qué se ven constelaciones diferentes en distintas épocas del año: porque la órbita de la Tierra alrededor del Sol cambia qué parte del cielo queda de frente durante la noche",
       "evidence": [
-        "Nombra al menos tres constelaciones (por ejemplo, Orión, la Osa Mayor o el Carro, Leo, Casiopea)",
+        "Nombra al menos tres constelaciones (por ejemplo, Orión, la Osa Mayor (el Carro), Leo, Casiopea)",
         "Indica que en distintas estaciones se ven constelaciones diferentes",
         "Explica que esto ocurre porque, por la órbita de la Tierra, en distintas épocas del año se mira hacia direcciones diferentes del espacio"
       ]

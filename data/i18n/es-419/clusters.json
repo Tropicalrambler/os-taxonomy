@@ -21,7 +21,7 @@
       "subject": "English",
       "domain": "Grammar & Punctuation",
       "ageRangeStart": 7,
-      "summary": "Su hijo o hija está aprendiendo una gramática más sofisticada: usar correctamente los verbos irregulares y los plurales, puntuar el diálogo, elegir los pronombres y las conjunciones adecuados, y comprender cuándo usar distintos tiempos verbales."
+      "summary": "Su hijo o hija está aprendiendo una gramática más sofisticada: usar correctamente los verbos irregulares y los plurales, puntuar el diálogo, elegir los pronombres adecuados y las conjunciones adecuadas, y comprender cuándo usar distintos tiempos verbales."
     },
     {
       "subject": "English",
@@ -51,7 +51,7 @@
       "subject": "English",
       "domain": "Handwriting & Transcription",
       "ageRangeStart": 6,
-      "summary": "Su hijo o hija está aprendiendo a unir las letras al escribir, y desarrollando una escritura a mano suave al conectar las letras con trazos diagonales y horizontales, mientras mantiene las letras del tamaño correcto."
+      "summary": "Su hijo o hija está aprendiendo a unir las letras al escribir, y desarrollando una escritura a mano fluida al conectar las letras con trazos diagonales y horizontales, mientras mantiene las letras del tamaño correcto."
     },
     {
       "subject": "English",
@@ -135,7 +135,7 @@
       "subject": "English",
       "domain": "Speaking & Listening",
       "ageRangeStart": 9,
-      "summary": "Su hijo o hija está desarrollando habilidades de escucha crítica, y aprendiendo a identificar las ideas clave de lo que escucha y a evaluar si quien habla ofrece buenas razones y evidencia para sus ideas."
+      "summary": "Su hijo o hija está desarrollando habilidades de escucha crítica, y aprendiendo a identificar las ideas clave de lo que escucha y a evaluar si quienes hablan ofrecen buenas razones y evidencia para sus ideas."
     },
     {
       "subject": "English",
@@ -321,7 +321,7 @@
       "subject": "Mathematics",
       "domain": "Counting & Cardinality",
       "ageRangeStart": 7,
-      "summary": "Su hijo o hija está desarrollando confianza para contar con números más grandes, practicando patrones de contar de N en N y contando hasta 1000 de distintas cantidades en distintas cantidades."
+      "summary": "Su hijo o hija está desarrollando confianza para contar con números más grandes, practicando patrones de contar de N en N y contando hasta 1000 con saltos de distintas cantidades."
     },
     {
       "subject": "Mathematics",
@@ -513,7 +513,7 @@
       "subject": "Mathematics",
       "domain": "Multiplication & Division",
       "ageRangeStart": 5,
-      "summary": "Su hijo o hija está recibiendo una introducción a la multiplicación y la división como formas de trabajar con grupos iguales: comprendiendo la multiplicación como una suma repetida y la división como un reparto en partes iguales."
+      "summary": "Su hijo o hija está conociendo la multiplicación y la división como formas de trabajar con grupos iguales: comprendiendo la multiplicación como una suma repetida y la división como un reparto en partes iguales."
     },
     {
       "subject": "Mathematics",
