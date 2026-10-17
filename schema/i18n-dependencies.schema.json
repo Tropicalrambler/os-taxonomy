@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://withmarble.com/taxonomy/schema/i18n-dependencies.schema.json",
+  "title": "Marble Skill Taxonomy — dependency reason translations",
+  "type": "object",
+  "required": ["locale", "version", "source", "attribution", "edgeCount", "dependencies"],
+  "properties": {
+    "locale": { "type": "string", "const": "es-419" },
+    "version": { "type": "string" },
+    "source": { "type": "string", "const": "dependencies.json" },
+    "attribution": { "type": "string", "minLength": 1 },
+    "edgeCount": { "type": "integer", "minimum": 0 },
+    "dependencies": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["topicId", "prerequisiteId", "reason"],
+        "properties": {
+          "topicId": { "type": "string", "pattern": "^mt_" },
+          "prerequisiteId": { "type": "string", "pattern": "^mt_" },
+          "reason": { "type": "string", "minLength": 1 }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

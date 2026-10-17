@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://withmarble.com/taxonomy/schema/i18n-labels.schema.json",
+  "title": "Marble Skill Taxonomy — display labels",
+  "type": "object",
+  "required": ["locale", "version", "attribution", "subjects", "domains", "types"],
+  "properties": {
+    "locale": { "type": "string", "const": "es-419" },
+    "version": { "type": "string" },
+    "attribution": { "type": "string", "minLength": 1 },
+    "subjects": {
+      "type": "object",
+      "additionalProperties": { "type": "string", "minLength": 1 }
+    },
+    "domains": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "additionalProperties": { "type": "string", "minLength": 1 }
+      }
+    },
+    "types": {
+      "type": "object",
+      "additionalProperties": { "type": "string", "minLength": 1 }
+    }
+  },
+  "additionalProperties": false
+}
